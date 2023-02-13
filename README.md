@@ -26,7 +26,7 @@ different cultures.
 
 With 700+ hours of coding and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Git, Github Flow.
 
-I was part of the developers team working on a mobile app directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
+I was also part of a developers team during my last month in SoyHenry Bootcamp working on a mobile app directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
 
 ### Languages
 
