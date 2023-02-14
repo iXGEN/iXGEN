@@ -37,17 +37,17 @@
 
 
 ## Contact Me  
-<a href="https://github.com/https://github.com/iXGEN" target="_blank">
+<a href="https://github.com/iXGEN" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/santiago-garcia-371154155/?locale=en_US](https://www.linkedin.com/in/ignaciobarra-zagal/)" target="_blank">
+<a href="https://www.linkedin.com/in/ignaciobarra-zagal/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Santy1422&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iXGEN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
  
