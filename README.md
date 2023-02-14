@@ -34,3 +34,12 @@ Native Spanish speaker
 Advanced English 
 Basic German
 Basic Japanese
+
+
+
+### Contact Me
+
+if you like what you've read don't doubt to contact me, i'm sure we can have a nice conversation 😄
+My Email: dev.barrazagal@gmail.com
+My LinkedIn: https://www.linkedin.com/in/ignaciobarra-zagal/
+
