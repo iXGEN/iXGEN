@@ -41,17 +41,17 @@ I would say very friendly and a team worker, i have mixed my skills from psychol
 
 ### Experience
 
-With 700+ hours of coding and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Git, Github Flow.
+With 700+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Git, Github Flow.
 
-I was also part of a developers team during my last month in SoyHenry Bootcamp working on a mobile app directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
+I was also part of a developers team during my last month in SoyHenry Bootcamp working on a Mobile App 📱 directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets 🐶🐱. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
 
 ### Projects
 
-I kindly invite you to check my recent projects, they are pinned down below
+I kindly invite you to check my recent projects, they are pinned 📌 down below 👇
 
 ### Languages
-<p>Native Spanish speaker</p>
-<p>Advanced English </p>
+<p>Native Spanish speaker</p> 
+<p>Advanced English</p>
 <p>Basic German</p>
 <p>Basic Japanese</p>
 
@@ -63,27 +63,16 @@ I kindly invite you to check my recent projects, they are pinned down below
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 
+Email: dev.barrazagal@gmail.com
+
 <br/>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iXGEN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
+<br/>   
+<br/>    
 <br/>  
- 
-
 <br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 
