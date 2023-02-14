@@ -60,10 +60,9 @@ I kindly invite you to check my recent projects, they are pinned 📌 down below
 <a href="https://www.linkedin.com/in/ignaciobarra-zagal/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-
-Email: dev.barrazagal@gmail.com
-<img src= "https://w7.pngwing.com/pngs/851/106/png-transparent-computer-icons-email-telephone-website-miscellaneous-blue-angle.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
+<a href="mailto:dev.barrazagal@gmail.com" target="_blank">
+<img src= "https://w7.pngwing.com/pngs/851/106/png-transparent-computer-icons-email-telephone-website-miscellaneous-blue-angle.png?&style=for-the-badge&logo=linkedin&logoColor=white" alt=email style="margin-bottom: 5px;" />
+</a> 
 
 <br/>
 
