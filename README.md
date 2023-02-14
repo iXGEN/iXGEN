@@ -22,10 +22,7 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I'm a Full Stack Developer. I would say very friendly and a
-team worker, i have mixed my skills from psychology to this
-new career path in tech, i really like traveling and meeting
-different cultures.
+I would say very friendly and a team worker, i have mixed my skills from psychology to this new career path in tech, i really like traveling and meeting different cultures.
 
 ### Experience
 
@@ -39,8 +36,6 @@ Native Spanish speaker
 Advanced English 
 Basic German
 Basic Japanese
-
-
 
 ### Contact Me
 
