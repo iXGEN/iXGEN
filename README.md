@@ -62,6 +62,8 @@ I kindly invite you to check my recent projects, they are pinned 📌 down below
 </a>
 
 Email: dev.barrazagal@gmail.com
+<img src= "https://w7.pngwing.com/pngs/851/106/png-transparent-computer-icons-email-telephone-website-miscellaneous-blue-angle.png?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
 
 <br/>
 
