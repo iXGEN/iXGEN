@@ -45,11 +45,15 @@ With 700+ hours of coding and pair programming in soyHenry Bootcamp i'm confiden
 
 I was also part of a developers team during my last month in SoyHenry Bootcamp working on a mobile app directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
 
+### Projects
+
+I kindly invite you to check my recent projects, they are pinned down below
+
 ### Languages
-<br>Native Spanish speaker</br>
-<br>Advanced English </br>
-<br>Basic German</br>
-<br>Basic Japanese</br>
+<p>Native Spanish speaker</p>
+<p>Advanced English </p>
+<p>Basic German</p>
+<p>Basic Japanese</p>
 
 ## Contact Me  
 <a href="https://github.com/iXGEN" target="_blank">
