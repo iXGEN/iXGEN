@@ -43,3 +43,5 @@ if you like what you've read don't doubt to contact me, i'm sure we can have a n
 My Email: dev.barrazagal@gmail.com
 My LinkedIn: https://www.linkedin.com/in/ignaciobarra-zagal/
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iXGEN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
