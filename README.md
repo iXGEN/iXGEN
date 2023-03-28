@@ -28,7 +28,8 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>
   <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>
   <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
-  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
+  <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a> 
+  <a href="https://www.trello.com/" target="_blank"><img style="margin: 10px" src="https://allvectorlogo.com/img/2019/04/trello-logo.png" alt="Trello" height="50" /></a>   
 </div>
 
 
@@ -46,7 +47,7 @@ I would say very friendly and a team worker, i have mixed my skills from psychol
 
 ### Experience
 
-With 800+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Git, Github Flow.
+With 800+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Github Flow and tools such as Trello.
 
 I was also part of a developers team during my last month in SoyHenry Bootcamp working on a Mobile App 📱 directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets 🐶🐱. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
 
