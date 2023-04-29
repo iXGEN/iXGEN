@@ -72,8 +72,10 @@ I kindly invite you to check my recent projects, they are pinned 📌 down below
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <div>
+  
+  <a href="mailto:dev.barrazagal@gmail.com">
   <img src= "https://img.icons8.com/material-sharp/24/000000/email--v1.png" alt="email" style="vertical-align: middle; margin-bottom: 5px;">
-  <a href="mailto:dev.barrazagal@gmail.com">dev.barrazagal@gmail.com</a>
+  </a>
 
 <br/>
 
