@@ -41,13 +41,15 @@
 
 ### About Me
 
-I would say very friendly and a team worker, i have mixed my skills from psychology to tech, i really like traveling and meeting different cultures.
+I'm friendly and a team worker, i have a previous background from psychology, i really like traveling and meeting different cultures.
 
 ### Experience
 
+I've been coding since June 2022 when i took CS50 from Harvard, then i started learning by myself HTML, CSS and Javascript. After that i started soyHenry Bootcamp, this is the place i learnt the most about this amazing world.
+  
 With 800+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Github Flow and tools such as Trello.
 
-I was also part of a developers team during my last month in SoyHenry Bootcamp working on a Mobile App 📱 directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets 🐶🐱. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDb and Express(NodeJS)(BackEnd) and React Native, Redux and Tailwind (Front-End).
+I was also part of a developers team during my last month in SoyHenry Bootcamp working on a Mobile App 📱 directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets 🐶🐱. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDB, ExpressJS, React Native, Redux and Tailwind.
 
 ### Projects
 
@@ -67,16 +69,11 @@ I kindly invite you to check my recent projects, they are pinned 📌 down below
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <div>
-  
-  <a href="mailto:dev.barrazagal@gmail.com">
-  <img src= "https://img.icons8.com/material-sharp/24/000000/email--v1.png" alt="email" style="vertical-align: middle; margin-bottom: 5px;">
-  </a>
-
 <br/>
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iXGEN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=iXGEN&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  
 <br/>   
 <br/>    
 <br/>  
