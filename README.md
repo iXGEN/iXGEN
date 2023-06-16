@@ -42,15 +42,21 @@
 
 ### About Me
 
-I'm friendly and a team worker, i have a previous background from psychology, i really like traveling and meeting different cultures.
+I'm passionate about technology, and i have a previous background from psychology, i really like traveling and meeting different cultures.
 
 ### Experience
 
+I am currently working as a freelance creating a web application that uses the ChatGPT API and Socket.io to create a chat that connects users and customer service that is assisted by ChatGPT to answer questions about the program and courses through based on previously learned information, in the event that a human is not available at customer service, the ChatGPT-powered bot will respond to the user.
+
+Some History:
+
 I've been coding since June 2022 when i took CS50 from Harvard, then i started learning by myself HTML, CSS and Javascript. After that i started soyHenry Bootcamp, this is the place i learnt the most about this amazing world.
   
-With 800+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Github Flow and tools such as Trello.
+With 900+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Github Flow and tools such as Trello.
 
 I was also part of a developers team during my last month in SoyHenry Bootcamp working on a Mobile App 📱 directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets 🐶🐱. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDB, ExpressJS, React Native, Redux and Tailwind.
+
+Then i started looking for jobs and at the same time working as a freelance to improve my skills and learn new technologies.
 
 ### Projects
 
