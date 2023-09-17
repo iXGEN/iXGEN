@@ -46,7 +46,7 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 ### Experience
 
-I am currently working as a freelance creating a web application that uses the ChatGPT API and Socket.io to create a chat that connects users and customer service that is assisted by ChatGPT to answer questions about the program and courses through based on previously learned information, in the event that a human is not available at customer service, the ChatGPT-powered bot will respond to the user.
+I am currently in a Front End Developer role at a company that sells apartments, my job is to develop the internal apps of the company as well as the website.
 
 Some History:
 
