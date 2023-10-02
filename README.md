@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Front End / Back End / Mobile Developer👨‍💻</div>  
+### <div align="center">Full Stack Developer👨‍💻</div>  
   
 <br/>  
 
