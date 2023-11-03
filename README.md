@@ -46,17 +46,7 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 ### Experience
 
-I am currently in a Front End Developer role at a company that sells apartments, my job is to develop the internal apps of the company as well as the website.
-
-Some History:
-
-I've been coding since June 2022 when i took CS50 from Harvard, then i started learning by myself HTML, CSS and Javascript. After that i started soyHenry Bootcamp, this is the place i learnt the most about this amazing world.
-  
-With 900+ hours of coding 💻 and pair programming in soyHenry Bootcamp i'm confident working with Javascript, React, React Native, Redux, NodeJS, ExpressJS, SQL, Sequelize, MongoDB and Mongoose as well as team working with the Github Flow and tools such as Trello.
-
-I was also part of a developers team during my last month in SoyHenry Bootcamp working on a Mobile App 📱 directed to an NGO called "Find a Home" our purpose was creating a software that connects people interested in adopting homeless pets 🐶🐱. We successfully met our client's needs. We worked in the Agile framework Scrum, using AWS services, Firebase, MongoDB, ExpressJS, React Native, Redux and Tailwind.
-
-Then i started looking for jobs and at the same time working as a freelance to improve my skills and learn new technologies.
+I am currently working on different freelance projects.
 
 ### Projects
 
