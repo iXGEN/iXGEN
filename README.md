@@ -48,15 +48,9 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 I am currently working on different freelance projects.
 
-### Projects
-
-I kindly invite you to check my recent projects, they are pinned 📌 down below 👇
-
 ### Languages
 <p>Native Spanish speaker</p> 
 <p>Advanced English</p>
-<p>Basic German</p>
-<p>Basic Japanese</p>
 
 ## Contact Me  
 <a href="https://github.com/iXGEN" target="_blank">
