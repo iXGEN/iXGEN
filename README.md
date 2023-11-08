@@ -37,7 +37,7 @@
     <img src="https://i.ibb.co/4fGFN9S/trello-logo-removebg-preview.png" alt="Trello" height="50" />
   </p>
 </div>
-### About Me
+## About Me
 
 I'm passionate about technology, and i have a previous background from psychology, i really like traveling and meeting different cultures.
 
