@@ -9,7 +9,6 @@
 
 
 ## My Skill Set  
-<div align="center">
   <p align="center">
     <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
     <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
@@ -36,8 +35,8 @@
     <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" />
     <img src="https://i.ibb.co/4fGFN9S/trello-logo-removebg-preview.png" alt="Trello" height="50" />
   </p>
-</div>
-## About Me
+  
+### About Me
 
 I'm passionate about technology, and i have a previous background from psychology, i really like traveling and meeting different cultures.
 
