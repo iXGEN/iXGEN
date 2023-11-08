@@ -10,7 +10,7 @@
 
 ## My Skill Set  
 <table><tr><td valign="top" width="100%"> 
-<div>  
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 
 
 
