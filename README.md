@@ -42,7 +42,7 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 ### Experience
 
-I am currently working on different freelance projects.
+I am a Front End Developer at RotoUnderworld, but also working on different freelance projects.
 
 ### Languages
 <p>Native Spanish speaker</p> 
