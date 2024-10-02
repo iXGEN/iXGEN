@@ -42,7 +42,7 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 ### Experience
 
-I am a Front End Developer at RotoUnderworld, but also working on different freelance projects.
+I am a Mobile Developer at Fastdraft, we recently launched the app!
 
 ### Languages
 <p>Native Spanish speaker</p> 
