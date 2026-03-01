@@ -42,7 +42,7 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 ### Experience
 
-I'm Lead Front End Engineer in Krunchbox, Australian / American creating smarter retail decisions powered by AI
+I'm Lead Front End Engineer in Krunchbox, Australian / American company, creating smarter retail decisions powered by AI
 
 ### Languages
 <p>Native Spanish speaker</p> 
