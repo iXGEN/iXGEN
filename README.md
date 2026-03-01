@@ -42,7 +42,7 @@ I'm passionate about technology, and i have a previous background from psycholog
 
 ### Experience
 
-I am a Mobile Developer at Fastdraft, we recently launched the app!
+I'm Lead Front End Engineer in Krunchbox, Australian / American creating smarter retail decisions powered by AI
 
 ### Languages
 <p>Native Spanish speaker</p> 
